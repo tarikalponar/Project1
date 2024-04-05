@@ -1,0 +1,28 @@
+Annual Fill Rate:
+
+Quaestor: If there is a constant influx of new applicants with a mean of 15, which may vary as a result of the normal distribution with σ = 5, and there are 20 positions available annually, then the majority of Quaestor positions should be filled each year. All new applicants might not, however, be eligible or make it through the selection procedure each year. In the event of a high qualifying rate, the fill rate may approach 100%, but it may also dip significantly below that because of variations in the quantity of new candidates and their electoral success in their first year.
+
+Aedile: Due to loss and the filtering effect of advancement, the pool of qualified candidates may be somewhat smaller than for Quaestors, given the 10 open posts and the requirement of at least two years of Quaestor service. Because of this, the fill rate could be a little lower—perhaps between 90 and 100%—if there is a consistent advancement and a sufficient number of candidates opt to advance.
+
+Praetor: The filtering effect is getting stronger because there is now an additional requirement of at least two years of service as an Aedile. With only 8 spots available, the fill rate may be in the 85–100% range, which is comparable to or slightly lower than Aediles', given the smaller pool of candidates that are qualified and eager to advance.
+
+Consul: This is the most competitive and limited office due to its strict requirements, which include a minimum age of 42 and two years of service as Praetor. Additionally, there are only two positions available each year and a 10-year gap before one can run for reelection. Because of these reasons, the fill rate here would probably vary the greatest, maybe falling below 100% more often than the other slots.
+
+
+Age Distribution:
+
+Quaestor: Quaestors' ages would be distributed in a way that would be leaning towards the lower end of the political career spectrum, starting at age 30, and most likely falling between the ages of 30 and early 40s, representing individuals who are just starting out in politics or their early career phases.
+
+Aedile: Owing to the minimum age of 36 and the prerequisite of previous service, Aediles would presumably be a mix of candidates for politicians and those furthering their professions. Their ages would likely range from 36 to mid-40s.
+
+Praetor: The age distribution would probably fall between the late 30s and the mid-50s, symbolizing mid-career politicians moving up the political ladder. It might also include some older people who encountered competition or advanced more slowly. The starting age would be 39.
+
+Consul: Because of the competitive nature of obtaining this post and the highest minimum age requirement of 42, the age distribution of Consuls, who represent the highest level of political careers, is likely to be in the 40s to 60s. This range takes into consideration the 10-year re-election period, the minimum age requirement, and the possibility of making repeated efforts to win this esteemed post.
+
+
+
+
+
+Final PSI values are changing in every run, but they are around -25K. In my last run I got the output like this: Final PSI: -25215
+
+
